@@ -1,0 +1,2 @@
+A client/server chat written using native remote scala actors
+Run the ChatServer first and the how many ChatClients you want
